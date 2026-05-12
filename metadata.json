@@ -1,0 +1,6 @@
+{
+  "name": "Minimalist UTM Link Generator",
+  "description": "A lightweight, high-performance tool for generating GA4-compatible UTM links with auto-formatting and live preview.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
